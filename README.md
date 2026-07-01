@@ -7,9 +7,9 @@ BTech ECE (AIML) | 3rd Year | Aspiring Automotive Engineer
 - Embedded Systems & CAN
 
 ## Projects (in progress)
-- Lane detection using OpenCV — coming August 2025
-- BMS simulation in MATLAB/Simulink — coming September 2025
-- CAN node on STM32 — coming October 2025
+- Lane detection using OpenCV â€” coming August 2026
+- BMS simulation in MATLAB/Simulink â€” coming September 2026
+- CAN node on STM32 â€” coming October 2026
 
 ## Connect
 - Reach me at: work.sws110@gmail.com
